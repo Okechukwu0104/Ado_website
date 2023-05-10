@@ -1,0 +1,141 @@
+body {
+    background-image: url('/home/okechukwu/Desktop/WEEK 7/TUESDAY/images/background/Screenshot from 2023-05-09 19-58-20.png');
+}
+
+body {
+    margin-top: 5rem;
+}
+
+#logo {
+    margin-bottom: 0rem;
+    margin: 4rem;
+    
+}
+
+#title {
+    display: flex;
+    padding: 0%;
+    margin: 4rem;
+}
+
+#head2 {
+    margin-top: 5.8rem;
+    margin: 4rem;
+}
+
+#head2a {
+    margin-bottom: 6rem;
+    margin: 4rem;
+}
+
+#h1 {
+    font-size: 5rem;
+    margin: 4rem;
+}
+
+#f1st {
+    display: flex;
+    margin-inline: 0%;
+    margin: 0rem;
+}
+
+h4,
+h2,
+h3 {
+    color: rgb(21, 71, 209);
+    margin: 4rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 2.3rem;
+}
+
+#new {
+    margin: 4rem;
+}
+
+p {
+    font-size: 1.7rem;
+
+}
+
+a {
+    color: black;
+}
+
+#abbr {
+    font-size: 2.7rem;
+
+}
+
+h1 {
+    color: orangered;
+    font-size: 3rem;
+    margin-bottom: 0rem;
+}
+
+#internal {
+    color: black;
+    font-size: large;
+    float: right;
+    font-weight: lighter;
+}
+
+h2 #shift {
+    margin-bottom: 9.9rem;
+    padding-top: 0rem;
+}
+
+#listing {
+    color: orangered;
+    text-align: justify;
+    margin-right: 5rem;
+}
+
+#abic {
+    padding-left: 1rem;
+    font-size: 3.5rem;
+}
+
+.list {
+    display: flex;
+}
+
+.list ul {
+    list-style: none;
+    font-size: 1.4rem;
+    color: red;
+    margin-top: 0rem;
+}
+
+#lowest {
+    display: flex;
+    justify-content: center;
+}
+
+.lowest {
+    display: flex;
+    justify-content: center;
+    font-size: 1.3rem;
+}
+
+.footer {
+    margin-top: 7rem;
+}
+
+quote {
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+
+#f1st {
+    margin-bottom: 5.6rem;
+}
+
+#none {
+    text-decoration: none;
+}
